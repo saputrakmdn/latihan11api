@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">latihan11api</string>
+   <string name="api_key">73e9a2748be44a25fc5e8b51c6b4ac81</string>
+    <string name="base_path_poster">https://image.tmdb.org/t/p/w500</string>
+</resources>
